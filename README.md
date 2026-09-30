@@ -19,7 +19,6 @@
 Name:        Narain Ram R M
 Degree:      B.Tech in Computer Science & Engineering (AI & Robotics)
 Institution: Vellore Institute of Technology (VIT), Chennai — Batch of 2027
-Current GPA: 7.9 / 10
 Core Focus:  Software Engineering, Distributed Systems, Concurrency, Applied AI & Robotics
 Experience:  Software Development Intern @ Eanwol (Enterprise REST APIs, React, MS SQL Server)
 Location:    Chennai, Tamil Nadu, India
